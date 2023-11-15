@@ -1,0 +1,595 @@
+/*event moster output css*/
+ /* event main div */
+
+#em-loader {
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 50px;
+  height: 50px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+  margin: 0 auto;
+}
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* em well */
+.em_well {
+    border: 1px solid #e3e3e3;
+	padding: 25px !important;
+	background-color: #F8F8F8
+} 
+.em_margin {
+	margin-bottom:-10px;
+}
+/* hr */
+.em_hr{
+	border: 1px solid #e3e3e3 !important;
+	background: none !important;
+	height: 0 !important;
+}
+.em_well_gallery {
+    border: 1px solid #e3e3e3;
+	padding-top:30px;
+	padding-bottom:20px;
+}
+/* map */
+ #map {
+	width: 100%;
+	height: 400px;
+	background-color: grey;
+}
+/* spacing */
+.em_sp_md {
+	  padding-top:30px;
+	  padding-bottom:30px;
+}
+.bg_gary {
+	  background-color:#F8F8F8;
+}
+.aaa {
+	  font-family: 'Roboto', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+ /* slider*/
+#owl-demo .item{
+	margin: 3px;
+}
+#owl-demo .item img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+/*Checkbox css*/
+.checkbox label:after, 
+.radio label:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.checkbox .cr,
+.radio .cr {
+	background-color:#FFFFFF;
+    position: relative;
+    display: inline-block;
+    border: 1px solid #a9a9a9;
+    border-radius: .25em;
+    width: 1.3em;
+    height: 1.3em;
+    float: left;
+    margin-right: .5em;
+}
+
+.radio .cr {
+    border-radius: 50%;
+}
+
+.checkbox .cr .cr-icon,
+.radio .cr .cr-icon {
+    position: absolute;
+    font-size: .8em;
+    line-height: 0;
+    top: 50%;
+    left: 20%;
+	color:#888888;
+}
+
+.radio .cr .cr-icon {
+    margin-left: 0.04em;
+}
+
+.checkbox label input[type="checkbox"],
+.radio label input[type="radio"] {
+    display: none;
+}
+
+.checkbox label input[type="checkbox"] + .cr > .cr-icon,
+.radio label input[type="radio"] + .cr > .cr-icon {
+    transform: scale(3) rotateZ(-20deg);
+    opacity: 0;
+    transition: all .3s ease-in;
+}
+
+.checkbox label input[type="checkbox"]:checked + .cr > .cr-icon,
+.radio label input[type="radio"]:checked + .cr > .cr-icon {
+    transform: scale(1) rotateZ(0deg);
+    opacity: 1;
+}
+
+.checkbox label input[type="checkbox"]:disabled + .cr,
+.radio label input[type="radio"]:disabled + .cr {
+    opacity: .5;
+}
+/* paid tiket form */
+.em_booking_field {
+	padding:25px !important;
+}
+.em_tkt_left {
+	padding:12px;
+}
+.em_tkt_pricing {
+	font-size:16px;
+	color:#888888;
+	padding-left:0px !important;
+}
+.em_tkt_quantity {
+	height:24px;
+	padding:0 !important
+}
+/* Organizer */
+.em_organizer , .em_detail {
+	height:300px;
+}
+/* venue + map*/
+
+.em_google_map {
+	margin-bottom:-7px;
+}
+/* form validate */
+ .require_field {
+	 outline:1px solid #ED4151 !important; 
+ }
+#em_cpn_apply {
+	font-size:10px !important; 
+}
+/* coupon icons applt and fail css*/
+.em_coupon_fail {
+	font-size: 18px;
+	color: #FF0034;
+	padding-top: 5px;
+	cursor: pointer;
+}
+.em_coupon_appled {
+	font-size: 18px;
+	color: #4BA77C;
+	padding-top: 5px;
+}
+
+
+/* Event Gallery Hover */
+/* Hover 1 */
+/* Image and title with scale/rotate effect on hover */
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,700);
+.snip1581 {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: left;
+  font-size: 16px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.snip1581 * {
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.snip1581 figcaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.8) 0%, transparent 100%);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, transparent 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.snip1581 .title3 {
+  font-size: 44px;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin: 3px 0;
+}
+
+.snip1581 .title3 {
+  font-size: 16px;
+  color:#FFFFFF;
+}
+
+.snip1581:hover img,
+.snip1581.hover img {
+  -webkit-transform: scale(1.3) rotate(5deg);
+  transform: scale(1.3) rotate(5deg);
+}
+
+/* -------------------------------- */
+/* Hover 2 */
+/* Image with title and icon on hover */
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+.snip1532 {
+  overflow: hidden;
+  color: #000000;
+  position: relative;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.snip1532 *,
+.snip1532 *:before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.4s ease-out;
+  transition: all 0.4s ease-out;
+}
+
+.snip1532 img {
+  max-width: 100%;
+  vertical-align: top;
+  -webkit-transform-origin: 100% 100%;
+  -ms-transform-origin: 100% 100%;
+  transform-origin: 100% 100%;
+}
+
+.snip1532 figcaption {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  opacity: 0;
+}
+
+.snip1532 h3 {
+  font-size: 20px;
+  margin: 0;
+  padding: 0 20px;
+  text-transform: uppercase;
+}
+
+.snip1532 i {
+  background-color: #000000;
+    bottom: 0;
+    color: #fff;
+    font-size: 16px;
+    line-height: 35px;
+    opacity: 0;
+    position: absolute;
+    right: -1px;
+    transform: translate(0%, 100%);
+    width: 40px;
+}
+
+.snip1532 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.snip1532:hover figcaption,
+.snip1532.hover figcaption {
+  opacity: 1;
+}
+
+.snip1532:hover img,
+.snip1532.hover img {
+  opacity: 0.2;
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.snip1532:hover i,
+.snip1532.hover i {
+  -webkit-transform: translate(0%, 0%);
+  transform: translate(0%, 0%);
+  opacity: 1;
+}
+
+/* -------------------------------- */
+/* Hover 3 */
+/* Image with icon on hover */
+@import url(http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+figure.snip1409 {
+  position: relative;
+  overflow: hidden;
+  color: #ffffff;
+  font-size: 16px;
+  background-color: #000000;
+}
+figure.snip1409 *,
+figure.snip1409 *:after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+figure.snip1409 img {
+  max-width: 100%;
+  backface-visibility: hidden;
+  vertical-align: top;
+}
+figure.snip1409:after {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  content: '';
+  background-color: rgba(0, 0, 0, 0.65);
+  z-index: 1;
+  opacity: 0;
+}
+figure.snip1409 span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 20px;
+  -webkit-transform: translate(-50%, 0%);
+  transform: translate(-50%, 0%);
+  opacity: 0;
+  z-index: 2;
+}
+figure.snip1409 a {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+figure.snip1409:hover img,
+figure.snip1409.hover img {
+  zoom: 1;
+  filter: alpha(opacity=50);
+  -webkit-opacity: 0.5;
+  opacity: 0.5;
+}
+figure.snip1409:hover:after,
+figure.snip1409.hover:after {
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+}
+figure.snip1409:hover span,
+figure.snip1409.hover span {
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  opacity: 0.8;
+}
+
+/* cancellation ribbon */
+.rubber_stamp {
+  font-family: 'Vollkorn', serif;
+  font-size: 32px;
+  line-height: 45px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: red;
+  border: 7px solid red;
+  float: left;
+  padding: 0px 7px;
+  border-radius: 10px;
+  
+  opacity: 0.8;
+  -webkit-transform: rotate(-12deg);
+  -o-transform: rotate(-12deg);
+  -moz-transform: rotate(-12deg);
+  -ms-transform: rotate(-12deg);
+  position:absolute;
+  top:30%;
+}
+.rubber_stamp::after {
+  position: absolute;
+  content: " ";
+  width: 100%;
+  height: auto;
+  min-height: 100%;
+  top: -10px;
+  left: -10px;
+  padding: 10px;
+  background: url(https://raw.github.com/domenicosolazzo/css3/master/img/noise.png) repeat;
+}
+
+/* Speaker */
+.em_speaker_img {
+  position: relative;
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+#em_speaker {
+   width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 3px solid #ccc;
+}
+
+
+.em_speaker_desc {
+	display:block;
+}
+
+.em_speaker {
+		margin-top:12px;
+		margin-bottom:12px;
+	}
+.em_speaker_detail {
+	margin-left: -30px;
+}
+.icon-speaker {
+	position:absolute;
+	margin-top: 40px;
+}
+
+@media only screen and (max-width: 480px) {
+	.em_speaker_detail {
+		text-align:center;
+		margin-top:16px;
+		margin-left: 0px;
+	}
+	.speaker {
+		margin-top:12px;
+	}
+	.em_speaker {
+		margin-top:12px;
+		margin-bottom:12px;
+	}
+}
+
+/* media sreen for hover 1 */
+@media only screen and (max-width: 480px) {
+    .title3  {
+       display:none;
+    }
+	.snip1532 h3  {
+       display:none;
+    }
+	figure.snip1409 span {
+		display:none;
+	}
+}
+
+/* loading icon CSS */
+
+.cssload-clock{
+	border-radius: 58px;
+	border: 3px solid #40BABD;
+	height: 65px;
+	width: 65px;
+	position: relative;
+	left: 35%;
+	left: calc(50% - 42px);
+		left: -o-calc(50% - 42px);
+		left: -ms-calc(50% - 42px);
+		left: -webkit-calc(50% - 42px);
+		left: -moz-calc(50% - 42px);
+}
+.cssload-clock:after{
+	content: "";
+	position: absolute;
+	background-color: #40BABD;
+	top:2px;
+	left: 48%;
+	height: 28px;
+	width: 4px;
+	border-radius: 5px;
+	transform-origin: 50% 97%;
+		-o-transform-origin: 50% 97%;
+		-ms-transform-origin: 50% 97%;
+		-webkit-transform-origin: 50% 97%;
+		-moz-transform-origin: 50% 97%;
+	animation: grdAiguille 2.3s linear infinite;
+		-o-animation: grdAiguille 2.3s linear infinite;
+		-ms-animation: grdAiguille 2.3s linear infinite;
+		-webkit-animation: grdAiguille 2.3s linear infinite;
+		-moz-animation: grdAiguille 2.3s linear infinite;
+}
+
+
+
+.cssload-clock:before{
+	content: "";
+	position: absolute;
+	background-color: #40BABD;
+	top:6px;
+	left: 48%;
+	height: 24px;
+	width: 4px;
+	border-radius: 5px;
+	transform-origin: 50% 94%;
+		-o-transform-origin: 50% 94%;
+		-ms-transform-origin: 50% 94%;
+		-webkit-transform-origin: 50% 94%;
+		-moz-transform-origin: 50% 94%;
+	animation: ptAiguille 13.8s linear infinite;
+		-o-animation: ptAiguille 13.8s linear infinite;
+		-ms-animation: ptAiguille 13.8s linear infinite;
+		-webkit-animation: ptAiguille 13.8s linear infinite;
+		-moz-animation: ptAiguille 13.8s linear infinite;
+}
+
+
+
+@keyframes grdAiguille{
+		0%{transform:rotate(0deg);}
+		100%{transform:rotate(360deg);}
+}
+
+@-o-keyframes grdAiguille{
+		0%{-o-transform:rotate(0deg);}
+		100%{-o-transform:rotate(360deg);}
+}
+
+@-ms-keyframes grdAiguille{
+		0%{-ms-transform:rotate(0deg);}
+		100%{-ms-transform:rotate(360deg);}
+}
+
+@-webkit-keyframes grdAiguille{
+		0%{-webkit-transform:rotate(0deg);}
+		100%{-webkit-transform:rotate(360deg);}
+}
+
+@-moz-keyframes grdAiguille{
+		0%{-moz-transform:rotate(0deg);}
+		100%{-moz-transform:rotate(360deg);}
+}
+
+@keyframes ptAiguille{
+		0%{transform:rotate(0deg);}
+		100%{transform:rotate(360deg);}
+}
+
+@-o-keyframes ptAiguille{
+		0%{-o-transform:rotate(0deg);}
+		100%{-o-transform:rotate(360deg);}
+}
+
+@-ms-keyframes ptAiguille{
+		0%{-ms-transform:rotate(0deg);}
+		100%{-ms-transform:rotate(360deg);}
+}
+
+@-webkit-keyframes ptAiguille{
+		0%{-webkit-transform:rotate(0deg);}
+		100%{-webkit-transform:rotate(360deg);}
+}
+
+@-moz-keyframes ptAiguille{
+		0%{-moz-transform:rotate(0deg);}
+		100%{-moz-transform:rotate(360deg);}
+}

@@ -1,0 +1,350 @@
+# Translation of Plugins - Pricing Table &#8211; Price list, Price Table, Easy Pricing Table - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Pricing Table &#8211; Price list, Price Table, Easy Pricing Table - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-23 06:35:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Pricing Table &#8211; Price list, Price Table, Easy Pricing Table - Stable (latest release)\n"
+
+#: include/add-new-pricing.php:113
+msgid "Select Template Design"
+msgstr "Seleccionar el diseño de la plantilla"
+
+#: include/add-new-pricing.php:46
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: include/add-new-pricing.php:376
+msgid "Icon Settings"
+msgstr "Ajustes de iconos"
+
+#: include/add-new-pricing.php:54
+msgid "Click On Add Column To Add New Table"
+msgstr "Haz clic en «Añadir columna» para añadir una nueva tabla"
+
+#: include/add-new-pricing.php:43 include/add-new-pricing.php:537
+msgid "Featured Color Settings"
+msgstr "Ajustes de color destacado"
+
+#: include/add-new-pricing.php:37
+msgid "Config"
+msgstr "Configuración"
+
+#: include/add-new-pricing.php:34
+msgid "Template Design"
+msgstr "Diseño de la plantilla"
+
+#: include/add-new-pricing.php:681
+msgid "Apply own css on Pricing Table and dont use style tag"
+msgstr "Aplica tu propio CSS en la tabla de precios y no uses etiquetas de estilo"
+
+#: include/add-new-pricing.php:278
+msgid "No Currency"
+msgstr "Sin moneda"
+
+#: abc-pricing-table.php:87
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#. Author URI of the plugin
+msgid "http://awplife.com/"
+msgstr "https://awplife.com/"
+
+#. Plugin URI of the plugin
+msgid "http://awplife.com/code"
+msgstr "https://awplife.com/code/"
+
+#. translators: 1: Plugin name and version.
+#: featured-plugins/featured-plugins.php:161
+msgid "More Details"
+msgstr "Más detalles"
+
+#. translators: 1: The rating
+#: featured-plugins/featured-plugins.php:95
+msgid "%s rating"
+msgstr "%s valoración"
+
+#. translators: 1: The rating, 2: The number of ratings
+#: featured-plugins/featured-plugins.php:91
+msgid "%1$s rating based on %2$s rating"
+msgid_plural "%1$s rating based on %2$s ratings"
+msgstr[0] "Valoración de %1$s basada en %2$s valoración"
+msgstr[1] "Valoración de %1$s basada en %2$s valoraciones"
+
+#: include/add-new-pricing.php:707
+msgid "Copy the shortcode below and paste it wherever you want your pricing table to appear"
+msgstr "Copia el siguiente shortcode y pégalo donde quieras que aparezca tu tabla de precios"
+
+#: include/add-new-pricing.php:456 include/add-new-pricing.php:635
+msgid "Button Hover Color"
+msgstr "Color del botón al pasar el cursor"
+
+#. Author of the plugin
+msgid "A WP Life"
+msgstr "A WP Life"
+
+#. Description of the plugin
+msgid "A Responsive pricing table Amazing Easy To Use Tables, Table, Pricing, Widget, Shortcode- Irresistible CSS Based WordPress pricing table Plugin."
+msgstr "Una tabla de precios adaptativa increiblemente fácil de usar. Plugin de tabla de precios para WordPress con widgets y shortcodes irresistibles basados ​​en CSS."
+
+#. Plugin Name of the plugin
+msgid "ABC Pricing Table"
+msgstr "ABC Pricing Table"
+
+#: featured-plugins/featured-plugins.php:255
+msgid "%s download"
+msgid_plural "%s downloads"
+msgstr[0] "%s descarga"
+msgstr[1] "%s descargas"
+
+#: featured-plugins/featured-plugins.php:250
+msgid "Last Updated:"
+msgstr "Última actualización:"
+
+#: featured-plugins/featured-plugins.php:219
+msgid "By"
+msgstr "Por"
+
+#: featured-plugins/featured-plugins.php:180
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Instalado"
+
+#: featured-plugins/featured-plugins.php:180
+msgid "This plugin is already installed and is up to date"
+msgstr "Este plugin ya está instalado y actualizado"
+
+#. translators: 1: Plugin name and version
+#: featured-plugins/featured-plugins.php:175
+msgid "Update Now"
+msgstr "Actualizar ahora"
+
+#. translators: 1: Plugin name and version.
+#: featured-plugins/featured-plugins.php:169
+msgid "Install Now"
+msgstr "Instalar ahora"
+
+#: featured-plugins/featured-plugins.php:110
+msgid "Get More Free WordPress Plugin From A WP Life"
+msgstr "Obtén más plugins gratuitos para WordPress de «A WP Life»"
+
+#: include/add-new-pricing.php:716
+msgid "Close"
+msgstr "Cerrar"
+
+#: include/add-new-pricing.php:676
+msgid "Custom Css"
+msgstr "CSS personalizado"
+
+#: include/add-new-pricing.php:494 include/add-new-pricing.php:597
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: include/add-new-pricing.php:439 include/add-new-pricing.php:559
+msgid "Button Color"
+msgstr "Color del botón"
+
+#: include/add-new-pricing.php:477 include/add-new-pricing.php:617
+msgid "Background Hover Color"
+msgstr "Color de fondo al pasar el cursor"
+
+#: include/add-new-pricing.php:419 include/add-new-pricing.php:580
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: include/add-new-pricing.php:402 include/add-new-pricing.php:542
+msgid "Heading Text Color"
+msgstr "Color del texto del encabezado"
+
+#: include/add-new-pricing.php:40 include/add-new-pricing.php:397
+msgid "Color Settings"
+msgstr "Ajustes de color"
+
+#: include/add-new-pricing.php:324
+msgid "Columns 1"
+msgstr "1 columna"
+
+#: include/add-new-pricing.php:318
+msgid "Columns 2"
+msgstr "2 columnas"
+
+#: include/add-new-pricing.php:312
+msgid "Columns 3"
+msgstr "3 columnas"
+
+#: include/add-new-pricing.php:306
+msgid "Columns 4"
+msgstr "4 columnas"
+
+#: include/add-new-pricing.php:288
+msgid "Pricing Columns Per Row."
+msgstr "Columnas de precios por fila."
+
+#: include/add-new-pricing.php:287
+msgid "Columns Settings"
+msgstr "Ajustes de columnas"
+
+#: include/add-new-pricing.php:272
+msgid "Turkish lira ( t )"
+msgstr "Lira turca\t(TRY)"
+
+#: include/add-new-pricing.php:266
+msgid "Thai baht ( THB )"
+msgstr "Baht tailandés (THB)"
+
+#: include/add-new-pricing.php:260
+msgid "New Taiwan dollar ( NT$ )"
+msgstr "Nuevo dólar taiwanés (NT$)"
+
+#: include/add-new-pricing.php:254
+msgid "Philippine peso ( PHP )"
+msgstr "Pesos filipinos (PHP)"
+
+#: include/add-new-pricing.php:248
+msgid "Malaysian ringgit ( RM )"
+msgstr "Ringgits de Malasia (RM)"
+
+#: include/add-new-pricing.php:242
+msgid "Czech koruna ( Kc )"
+msgstr "Corona checa (Kč)"
+
+#: include/add-new-pricing.php:236
+msgid "Israeli new shekel ( NIS )"
+msgstr "Nuevo séquel israelí (NIS)"
+
+#: include/add-new-pricing.php:176
+msgid "Template & Icon Settings"
+msgstr "Ajustes de plantilla e icono"
+
+#: abc-pricing-table.php:167
+msgid "Rate Our Plugin"
+msgstr "Valora nuestro plugin"
+
+#: abc-pricing-table.php:166
+msgid "Upgrade Pricing Table Pro"
+msgstr "Actualizar a «Pricing Table Pro»"
+
+#: abc-pricing-table.php:139
+msgid "Parent Pricing Table"
+msgstr "Tabla de precios principal"
+
+#: abc-pricing-table.php:136
+msgid "View Pricing Table"
+msgstr "Ver la tabla de precios"
+
+#: abc-pricing-table.php:135
+msgid "Edit Pricing Table"
+msgstr "Editar la tabla de precios"
+
+#: include/add-new-pricing.php:230
+msgid "Brazilian real ( R$ )"
+msgstr "Real brasileño (R$)"
+
+#: include/add-new-pricing.php:224
+msgid "Indian rupee ( INR )"
+msgstr "Rupia india (INR)"
+
+#: include/add-new-pricing.php:218
+msgid "Swiss franc ( Fr )"
+msgstr "Franco suizo (Fr)"
+
+#: include/add-new-pricing.php:212
+msgid "Japanese yen ( ¥ )"
+msgstr "Yen japonés (¥)"
+
+#: include/add-new-pricing.php:206
+msgid "Euro ( € )"
+msgstr "Euro (€)"
+
+#: include/add-new-pricing.php:200
+msgid "United States dollar ( $ )"
+msgstr "Dólar estadounidense (&#36)"
+
+#: include/add-new-pricing.php:181 include/add-new-pricing.php:182
+msgid "Select Currency Icon."
+msgstr "Selecciona el icono de moneda."
+
+#: include/add-new-pricing.php:100 include/add-new-pricing.php:845
+msgid "Button Url"
+msgstr "URL del botón"
+
+#: include/add-new-pricing.php:97 include/add-new-pricing.php:842
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: include/add-new-pricing.php:95 include/add-new-pricing.php:839
+msgid "Pricing Features"
+msgstr "Características del precio"
+
+#: include/add-new-pricing.php:92 include/add-new-pricing.php:836
+msgid "Pricing Plan"
+msgstr "Plan de precios"
+
+#: include/add-new-pricing.php:85 include/add-new-pricing.php:829
+msgid "Name"
+msgstr "Nombre"
+
+#: include/add-new-pricing.php:82 include/add-new-pricing.php:826
+msgid "No"
+msgstr "No"
+
+#: include/add-new-pricing.php:80 include/add-new-pricing.php:824
+msgid "Yes"
+msgstr "Sí"
+
+#: include/add-new-pricing.php:56
+msgid "GET SHORTCODE"
+msgstr "OBTENER SHORTCODE"
+
+#: include/add-new-pricing.php:55
+msgid "ADD COLUMN"
+msgstr "AÑADIR COLUMNA"
+
+#: abc-pricing-table.php:146
+msgid "Description"
+msgstr "Descripción"
+
+#: abc-pricing-table.php:141
+msgid "No Pricing Table found in Trash"
+msgstr "No se han encontrado tablas de precios en la papelera"
+
+#: abc-pricing-table.php:140
+msgid "No Pricing Table"
+msgstr "No hay tablas de precios"
+
+#: abc-pricing-table.php:138
+msgid "Search Pricing Table"
+msgstr "Buscar tabla de precios"
+
+#: abc-pricing-table.php:137
+msgid "All Pricing Table"
+msgstr "Todas las tablas de precios"
+
+#: abc-pricing-table.php:134
+msgid "New Pricing Table"
+msgstr "Nueva tabla de precios"
+
+#: abc-pricing-table.php:132 abc-pricing-table.php:133
+#: abc-pricing-table.php:165 include/add-new-pricing.php:31
+msgid "Add Pricing Table"
+msgstr "Añadir tabla de precios"
+
+#: abc-pricing-table.php:128 abc-pricing-table.php:129
+#: abc-pricing-table.php:130 abc-pricing-table.php:131
+#: abc-pricing-table.php:145
+msgid "Pricing Table"
+msgstr "Tabla de precios"
+
+#: abc-pricing-table.php:123
+msgid "Our Plugins"
+msgstr "Nuestros plugins"
+
+#: abc-pricing-table.php:32 include/add-new-pricing.php:89
+#: include/add-new-pricing.php:833
+msgid "Pricing"
+msgstr "Precios"

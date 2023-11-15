@@ -1,0 +1,43 @@
+
+---Archivos descargados---
+Los archivos de importación para Business Formula ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 120
+Información de archivos:
+URL del sitio = https://otecno.es
+Archivo de datos = /home/u597909347/domains/otecno.es/public_html/wp-content/uploads/2023/10/demo-content-import-file_2023-10-12__03-02-33.xml
+Archivo de widget = /home/u597909347/domains/otecno.es/public_html/wp-content/uploads/2023/10/demo-widgets-import-file_2023-10-12__03-02-33.json
+Archivo del personalizador = /home/u597909347/domains/otecno.es/public_html/wp-content/uploads/2023/10/demo-customizer-import-file_2023-10-12__03-02-33.dat
+Archivos de Redux:
+ ¡no definido!
+
+---Importando los widgets---
+Sidebar widget area : 
+
+Búsqueda - Search - El widget ya existe
+Entradas recientes - Sin título - Importado
+Archivos - Archives - El widget ya existe
+Búsqueda - Sin título - Importado
+Comentarios recientes - Sin título - Importado
+Archivos - Sin título - Importado
+Categorías - Sin título - Importado
+Meta - Sin título - Importado
+
+Footer Widget First Column : 
+
+Texto - Quick contact info - El widget ya existe
+
+Footer Widget Second Column : 
+
+Categorías - Categories - El widget ya existe
+
+Footer Widget Third Column : 
+
+Archivos - Archives - El widget ya existe
+
+
+
+---Importación de los ajustes del personalizador---
+¡Importación de los ajustes del personalizador finalizado!
+
+---ocdi/after_import---
+

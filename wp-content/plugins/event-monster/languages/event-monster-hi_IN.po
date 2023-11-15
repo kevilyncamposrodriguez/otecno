@@ -1,0 +1,678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-09 18:21+0530\n"
+"PO-Revision-Date: 2018-08-09 18:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:35
+msgid "View Visitor / Attendee"
+msgstr "आगंतुक / उपस्थिति देखें"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:44 em-ajax-prossesing/em-visitor-ajax.php:132
+#: em-ajax-prossesing/em-visitor-ajax.php:178 em-ajax-prossesing/em-visitor-ajax.php:200
+#: em-ajax-prossesing/em-visitor-ajax.php:251 em-ajax-prossesing/em-visitor-ajax.php:271
+#: em-ajax-prossesing/em-visitor-ajax.php:284 visitors.php:75 visitors.php:123
+msgid "Name"
+msgstr "नाम"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:46 em-ajax-prossesing/em-visitor-ajax.php:133
+#: em-ajax-prossesing/em-visitor-ajax.php:179 em-ajax-prossesing/em-visitor-ajax.php:201
+#: em-ajax-prossesing/em-visitor-ajax.php:252 em-ajax-prossesing/em-visitor-ajax.php:272
+#: em-ajax-prossesing/em-visitor-ajax.php:285 event-setting.php:445 event-setting.php:448
+#: setting.php:40 setting.php:243 visitors.php:76 visitors.php:124
+msgid "Email"
+msgstr "ईमेल"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:49 event-setting.php:436 event-setting.php:439
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:52 em-ajax-prossesing/em-visitor-ajax.php:134
+#: em-ajax-prossesing/em-visitor-ajax.php:180 em-ajax-prossesing/em-visitor-ajax.php:202
+#: em-ajax-prossesing/em-visitor-ajax.php:253 em-ajax-prossesing/em-visitor-ajax.php:273
+#: em-ajax-prossesing/em-visitor-ajax.php:286 visitors.php:77 visitors.php:125
+msgid "Event"
+msgstr "आयोजन"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:60 event-setting.php:956
+msgid "Close"
+msgstr "बंद करे"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:135 em-ajax-prossesing/em-visitor-ajax.php:181
+#: em-ajax-prossesing/em-visitor-ajax.php:203 em-ajax-prossesing/em-visitor-ajax.php:254
+#: em-ajax-prossesing/em-visitor-ajax.php:274 em-ajax-prossesing/em-visitor-ajax.php:287
+#: visitors.php:78 visitors.php:126
+msgid "Mobile No."
+msgstr "मोबाइल नंबर"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:136 em-ajax-prossesing/em-visitor-ajax.php:182
+#: em-ajax-prossesing/em-visitor-ajax.php:204 em-ajax-prossesing/em-visitor-ajax.php:255
+#: em-ajax-prossesing/em-visitor-ajax.php:275 em-ajax-prossesing/em-visitor-ajax.php:288
+#: visitors.php:79 visitors.php:127
+msgid "Controls"
+msgstr "नियंत्रण"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:137 em-ajax-prossesing/em-visitor-ajax.php:205
+#: em-ajax-prossesing/em-visitor-ajax.php:276 visitors.php:80
+msgid "Delete All"
+msgstr "सभी हटा दो"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:184 em-ajax-prossesing/em-visitor-ajax.php:185
+#: em-ajax-prossesing/em-visitor-ajax.php:257 em-ajax-prossesing/em-visitor-ajax.php:258
+#: em-ajax-prossesing/em-visitor-ajax.php:290 em-ajax-prossesing/em-visitor-ajax.php:291
+#: visitors.php:129 visitors.php:130
+msgid "All"
+msgstr "सब"
+
+#: em-ajax-prossesing/em-visitor-ajax.php:242
+msgid "No visitor found!!"
+msgstr "कोई आगंतुक नहीं मिला!"
+
+#: event-monster-output.php:193 event-monster-single-output.php:179
+msgid "Book!"
+msgstr "आरक्षित"
+
+#: event-monster.php:136 event-monster.php:191 event-monster.php:192 event-monster.php:205
+msgid "Event Monster"
+msgstr "ईवेंट मोनस्टर"
+
+#: event-monster.php:181
+msgid "Visitors / Attendee"
+msgstr "आगंतुक / उपस्थिति"
+
+#: event-monster.php:182
+msgid "Setting"
+msgstr "सेटिंग"
+
+#: event-monster.php:183
+msgid "Docs"
+msgstr "दस्तावेज़"
+
+#: event-monster.php:184
+msgid "Our Theme"
+msgstr "हमारी थीम"
+
+#: event-monster.php:193
+msgid "Parent Item:"
+msgstr "अभिभावक आइटम"
+
+#: event-monster.php:194 visitors.php:42
+msgid "All Event"
+msgstr "सब आयोजन"
+
+#: event-monster.php:195 event-monster.php:196
+msgid "Add New Event"
+msgstr "नया कार्यक्रम जोड़ें"
+
+#: event-monster.php:197
+msgid "New Event"
+msgstr "नया आयोजन"
+
+#: event-monster.php:198
+msgid "Edit Event"
+msgstr "आयोजन संपादित करें"
+
+#: event-monster.php:199
+msgid "Update Event"
+msgstr "अद्यतन करें"
+
+#: event-monster.php:200
+msgid "Search Event"
+msgstr "आयोजन ख़ोजे"
+
+#: event-monster.php:201
+msgid "Event Not found"
+msgstr "आयोजन नहीं मिला"
+
+#: event-monster.php:202
+msgid "Event Not found in Trash"
+msgstr "आयोजन ट्रैश में नहीं मिला"
+
+#: event-monster.php:206
+msgid "Custom Post Type For Event Monster"
+msgstr "आयोजन के लिए कस्टम पोस्ट प्रकार"
+
+#: event-monster.php:228
+msgid "Event Monster Setting Panel"
+msgstr "ईवेंट मोनस्टर सेटिंग पैनल"
+
+#: event-monster.php:229
+msgid "Upgrade Event Monster Pro"
+msgstr "इवेंट मॉन्स्टर प्रो अपग्रेड करें"
+
+#: event-monster.php:230
+msgid "Rate Our Plugin"
+msgstr "हमारे प्लगइन को रेट करें"
+
+#: event-monster.php:242
+msgid "you like our plugin then please <b>Rate us</b> on WordPress"
+msgstr "आपको हमारी प्लगइन पसंद है तो कृपया वर्डप्रेस पर हमें रेट करें "
+
+#: event-setting.php:53
+msgid "GET EVENT SHORTCODE"
+msgstr "इवेंट शॉर्टकोडे प्राप्त करें"
+
+#: event-setting.php:76
+msgid "Event Logo / Banner"
+msgstr "इवेंट लोगो / बैनर"
+
+#: event-setting.php:84
+msgid "1. Uplode Image/Video/Icon"
+msgstr "अ. अपलोड छवि / वीडियो / आइकन"
+
+#: event-setting.php:101
+msgid "Upload Image"
+msgstr "तस्वीर डालिये"
+
+#: event-setting.php:111
+msgid "2. Logo/Banner Size"
+msgstr "ब. लोगो / बैनर आकार"
+
+#: event-setting.php:118
+msgid "Fixed"
+msgstr "निश्चित"
+
+#: event-setting.php:122
+msgid "Custom"
+msgstr "कस्टम"
+
+#: event-setting.php:134
+msgid "S 25%"
+msgstr "छोटा "
+
+#: event-setting.php:136
+msgid "M 50%"
+msgstr "मध्यम"
+
+#: event-setting.php:138
+msgid "L 75%"
+msgstr "बड़ा"
+
+#: event-setting.php:140
+msgid "XL 100%"
+msgstr "ज्यादा बड़ा"
+
+#: event-setting.php:148
+msgid "Height ( px )"
+msgstr "ऊंचाई"
+
+#: event-setting.php:156
+msgid "Width ( px )"
+msgstr "चौड़ाई"
+
+#: event-setting.php:171
+msgid "3. Logo/Banner Border"
+msgstr "स. लोगो / बैनर सीमा"
+
+#: event-setting.php:176
+msgid "Logo/Banner Border ( px )"
+msgstr "लोगो / बैनर सीमा"
+
+#: event-setting.php:185
+msgid "Logo/Banner Border Color"
+msgstr "लोगो / बैनर सीमा रंग"
+
+#: event-setting.php:205
+msgid "Event Name"
+msgstr "आयोजन का नाम"
+
+#: event-setting.php:212
+msgid "Name/Title"
+msgstr "नाम"
+
+#: event-setting.php:217
+msgid "Name/Title Font Size ( px )"
+msgstr "नाम / शीर्षक फ़ॉन्ट का आकार"
+
+#: event-setting.php:227
+msgid "Name/Title Color"
+msgstr "नाम / शीर्षक का रंग"
+
+#: event-setting.php:237
+msgid "Title Alignment"
+msgstr "शीर्षक संरेखण"
+
+#: event-setting.php:242 event-setting.php:641
+msgid "Left"
+msgstr "बाएं"
+
+#: event-setting.php:244 event-setting.php:643
+msgid "Center"
+msgstr "केंद्र"
+
+#: event-setting.php:246 event-setting.php:645
+msgid "Right"
+msgstr "सही"
+
+#: event-setting.php:260
+msgid "Event Details"
+msgstr "आयोजन विवरण"
+
+#: event-setting.php:265
+msgid "1. Event Dtate & Time"
+msgstr "आयोजन की तारीख और समय"
+
+#: event-setting.php:270 event-setting.php:325 event-setting.php:420
+msgid "Heading Text"
+msgstr "शीर्षक पाठ"
+
+#: event-setting.php:277
+msgid "Event Start & End Date"
+msgstr "आयोजन प्रारंभ और समाप्ति दिनांक"
+
+#: event-setting.php:284
+msgid "to"
+msgstr "से"
+
+#: event-setting.php:292
+msgid "Event Start & End Time"
+msgstr "आयोजन प्रारंभ और समाप्ति समय"
+
+#: event-setting.php:320
+msgid "2. Event Organizer ( s )"
+msgstr "आयोजन आयोजक"
+
+#: event-setting.php:332
+msgid "Organizer ( s )"
+msgstr "आयोजक"
+
+#: event-setting.php:336
+msgid "None"
+msgstr "कोई नहीं"
+
+#: event-setting.php:337
+msgid "1 Organizer"
+msgstr "आयोजक"
+
+#: event-setting.php:338
+msgid "2 Organizers"
+msgstr "आयोजक"
+
+#: event-setting.php:348 event-setting.php:359
+msgid "Organizer Name"
+msgstr "आयोजक का नाम"
+
+#: event-setting.php:350 event-setting.php:361
+msgid "Organizer Phone"
+msgstr "आयोजक का फ़ोन"
+
+#: event-setting.php:352 event-setting.php:363
+msgid "Organizer Email"
+msgstr "आयोजक का ईमेल"
+
+#: event-setting.php:354 event-setting.php:365
+msgid "Organizer Website"
+msgstr "आयोजक कि वेबसाइट"
+
+#: event-setting.php:378 event-setting.php:383
+msgid "Event Countdown"
+msgstr "आयोजन कि उलटी गिनती"
+
+#: event-setting.php:388
+msgid "Countdown"
+msgstr "उलटी गिनती"
+
+#: event-setting.php:393 event-setting.php:477 setting.php:182 setting.php:212
+#: setting.php:263
+msgid "ON"
+msgstr "पर"
+
+#: event-setting.php:395 event-setting.php:479 setting.php:184 setting.php:214
+#: setting.php:265
+msgid "OFF"
+msgstr "बंद"
+
+#: event-setting.php:410
+msgid "Event Venue"
+msgstr "आयोजन स्थान"
+
+#: event-setting.php:415 event-setting.php:427
+msgid "Event Location / Address"
+msgstr "आयोजन स्थान / पता"
+
+#: event-setting.php:430
+msgid "Type event location / address here"
+msgstr "आयोजन का स्थान / पता टाइप करें"
+
+#: event-setting.php:462 event-setting.php:467
+msgid "Event Google Map"
+msgstr "आयोजन का गूगल नक्शा"
+
+#: event-setting.php:472
+msgid "Google Map"
+msgstr "गूगल नक्शा"
+
+#: event-setting.php:487
+msgid "Google Embed URL"
+msgstr "गूगल एम्बेड यूआरएल"
+
+#: event-setting.php:490
+msgid "Type event location/address here"
+msgstr "आयोजन का स्थान / पता टाइप करें"
+
+#: event-setting.php:491
+msgid "Click Here - How To Get Google Embed Code Or URL"
+msgstr "यहां क्लिक करें - गूगल  एम्बेड कोड या यूआरएल कैसे प्राप्त करें"
+
+#: event-setting.php:497
+msgid "Google Map Height ( px )"
+msgstr "गूगल मानचित्र ऊंचाई (पीएक्स)"
+
+#: event-setting.php:506
+msgid "Google Map Opacity (Transparency)"
+msgstr "गूगल  मानचित्र अस्पष्टता (पारदर्शिता)"
+
+#: event-setting.php:526 event-setting.php:531 event-setting.php:536
+msgid "Accept Event Registration"
+msgstr "आयोजन का पंजीकरण स्वीकार करें"
+
+#: event-setting.php:541 event-setting.php:698
+msgid "Yes"
+msgstr "हाँ"
+
+#: event-setting.php:543 event-setting.php:700
+msgid "No"
+msgstr "नहीं"
+
+#: event-setting.php:550
+msgid "Registration Type"
+msgstr "पंजीकरण प्रकार"
+
+#: event-setting.php:555
+msgid "Internal"
+msgstr "अंदर"
+
+#: event-setting.php:557
+msgid "External"
+msgstr "बाहरी"
+
+#: event-setting.php:564
+msgid "Ticket Quantity"
+msgstr "टिकट मात्रा"
+
+#: event-setting.php:603 event-setting.php:606
+msgid "Button Text"
+msgstr "टेक्स्ट बटन"
+
+#: event-setting.php:611
+msgid "Select Button Type"
+msgstr "बटन प्रकार का चयन करें"
+
+#: event-setting.php:616
+msgid "Basic"
+msgstr "बुनियादी"
+
+#: event-setting.php:617
+msgid "Large"
+msgstr "बड़ा"
+
+#: event-setting.php:618
+msgid "Small"
+msgstr "छोटा"
+
+#: event-setting.php:619
+msgid "Extra Small"
+msgstr "अतिरिक्त छोटा"
+
+#: event-setting.php:626
+msgid "Button Color"
+msgstr "बटन रंग"
+
+#: event-setting.php:636
+msgid "Button Alignment"
+msgstr "बटन संरेखण"
+
+#: event-setting.php:651
+msgid "Button link"
+msgstr "बटन लिंक"
+
+#: event-setting.php:654
+msgid "Registration Page Link"
+msgstr "पंजीकरण पृष्ठ लिंक"
+
+#: event-setting.php:659
+msgid "Open Link Tab"
+msgstr "लिंक टैब खोलें"
+
+#: event-setting.php:664
+msgid "New"
+msgstr "नया"
+
+#: event-setting.php:666
+msgid "Same"
+msgstr "वही"
+
+#: event-setting.php:683 event-setting.php:688
+msgid "Event Social Media Icons"
+msgstr "आयोजन सोशल मीडिया प्रतीक"
+
+#: event-setting.php:693
+msgid "Enable"
+msgstr "सक्षम करें"
+
+#: event-setting.php:705
+msgid "Show Share Button"
+msgstr "शेयर बटन दिखाएं"
+
+#: event-setting.php:711
+msgid "Click Here - How To Get Social Share Buttons Code"
+msgstr "यहां क्लिक करें - सामाजिक शेयर बटन कोड कैसे प्राप्त करें"
+
+#: event-setting.php:725 event-setting.php:730
+msgid "Event Custom CSS"
+msgstr "आयोजन कस्टम सीएसएस"
+
+#: event-setting.php:734
+msgid "Apply coustom CSS"
+msgstr "कस्टम सीएसएस लागू करें"
+
+#: event-setting.php:750
+msgid "Upgrade To Pro"
+msgstr "प्रो में अपग्रेड करे"
+
+#: event-setting.php:755
+msgid "Upgrade Features"
+msgstr "सुविधाओं को अपग्रेड करें"
+
+#: event-setting.php:949
+msgid "Copy Event Shortcode"
+msgstr "इवेंट शोर्टकोड़कॉपी करें"
+
+#: event-setting.php:952
+msgid ""
+"Copy & Embed shortcode into any Page/ Post / Text Widget to display multiple events on "
+"site."
+msgstr ""
+"साइट पर कई आयोजनो को प्रदर्शित करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट विजेट में कॉपी करें और एम्बेड करें।"
+
+#: event-setting.php:954
+msgid ""
+"Copy & Embed shortcode into any Page/ Post / Text Widget to display single event on site."
+msgstr ""
+"साइट पर एकल आयोजन प्रदर्शित करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट विजेट में कॉपी करें और एम्बेड करें।"
+
+#: setting.php:27
+#, fuzzy
+#| msgid "Setting"
+msgid "Settings"
+msgstr "सेटिंग"
+
+#: setting.php:35
+msgid "FontAwesome Icons"
+msgstr "फोंटअसम प्रतीक"
+
+#: setting.php:39
+msgid "Common Settings"
+msgstr "सामान्य सेटिंग"
+
+#: setting.php:48
+msgid "Font Settings"
+msgstr "फ़ॉन्ट सेटिंग्स"
+
+#: setting.php:51
+msgid "Heading Font Size( px )"
+msgstr "शीर्षक फ़ॉन्ट आकार (पीएक्स)"
+
+#: setting.php:61
+msgid "Sub Heading Font Size( px )"
+msgstr "उप शीर्षक फ़ॉन्ट आकार (पीएक्स)"
+
+#: setting.php:71
+msgid "Text Font Size( px )"
+msgstr "टेक्स्ट फ़ॉन्ट आकार (पीएक्स)"
+
+#: setting.php:80
+#, fuzzy
+#| msgid "Registration Form Fields Lable Settings"
+msgid "Registration Form Fields label Settings"
+msgstr "पंजीकरण फॉर्म फ़ील्ड लेबल सेटिंग्स"
+
+#: setting.php:84
+msgid "Form Field Heading"
+msgstr "फॉर्म फील्ड शीर्षक"
+
+#: setting.php:95
+msgid "Form Field Sub Heading"
+msgstr "फॉर्म फील्ड उप शीर्षक"
+
+#: setting.php:106
+#, fuzzy
+#| msgid "First Name Field lable"
+msgid "First Name Field label"
+msgstr "पहला नाम फ़ील्ड लेबल"
+
+#: setting.php:117
+#, fuzzy
+#| msgid "Last Name Field lable"
+msgid "Last Name Field label"
+msgstr "अंतिम नाम फ़ील्ड लेबल"
+
+#: setting.php:128
+#, fuzzy
+#| msgid "Last Name Field lable"
+msgid "Email Field label"
+msgstr "अंतिम नाम फ़ील्ड लेबल"
+
+#: setting.php:139
+#, fuzzy
+#| msgid "Last Name Field lable"
+msgid "Phone Field label"
+msgstr "अंतिम नाम फ़ील्ड लेबल"
+
+#: setting.php:150
+msgid "Booking Success Message"
+msgstr "बुकिंग सफलता संदेश"
+
+#: setting.php:161
+msgid "Booking Full Message"
+msgstr "बुकिंग पूर्ण संदेश"
+
+#: setting.php:179
+msgid "Enable Auto Notification For Client"
+msgstr "ग्राहक के लिए ऑटो अधिसूचना सक्षम करें"
+
+#: setting.php:189
+msgid "Auto Notification Mail Subject For Client"
+msgstr "ग्राहक के लिए ऑटो अधिसूचना मेल विषय"
+
+#: setting.php:193 setting.php:223
+msgid "Enter Subject"
+msgstr "विषय दर्ज करें"
+
+#: setting.php:199
+msgid "Auto Notification Mail Message For Client"
+msgstr "ग्राहक के लिए ऑटो अधिसूचना मेल संदेश"
+
+#: setting.php:203 setting.php:233
+msgid "Enter Message"
+msgstr "संदेश दर्ज करें"
+
+#: setting.php:209
+msgid "Enable Auto Notification For Admin"
+msgstr "व्यवस्थापक के लिए ऑटो अधिसूचना सक्षम करें"
+
+#: setting.php:219
+msgid "Auto Notification Mail Subject For Admin"
+msgstr "व्यवस्थापक के लिए ऑटो अधिसूचना मेल विषय"
+
+#: setting.php:229
+msgid "Auto Notification Mail Message For admin"
+msgstr "व्यवस्थापक के लिए ऑटो अधिसूचना मेल संदेश"
+
+#: setting.php:239
+msgid "PHP Email"
+msgstr "पीएचपी ईमेल"
+
+#: setting.php:247
+msgid "Enter Email"
+msgstr "ईमेल दर्ज करें"
+
+#: setting.php:253
+msgid "Event Cancellation"
+msgstr "आयोजन रद्दीकरण"
+
+#: setting.php:258
+msgid "Event Cancellation Notification For Subscribers"
+msgstr "सब्सक्राइबर्स के लिए आयोजन रद्दीकरण अधिसूचना"
+
+#: setting.php:271
+msgid "Event Cancellation Subject"
+msgstr "आयोजन रद्दीकरण विषय"
+
+#: setting.php:274
+msgid "Type event cancellation subject"
+msgstr "आयोजन रद्दीकरण विषय टाइप करें"
+
+#: setting.php:278
+msgid "Event Cancellation Message"
+msgstr "आयोजन रद्दीकरण संदेश"
+
+#: setting.php:281
+msgid "Type event cancellation message"
+msgstr "आयोजन रद्दीकरण संदेश टाइप करें"
+
+#: setting.php:287
+msgid "Select for Event Cancel"
+msgstr "आयोजन रद्द करने के लिए चुनें"
+
+#: setting.php:315
+msgid "Click For Cancel This Event"
+msgstr "इस आयोजन को रद्द करने के लिए क्लिक करें"
+
+#: setting.php:318
+msgid "Cancel This Event"
+msgstr "इस आयोजन को रद्द करें"
+
+#: setting.php:320
+msgid "Pleas wait, Cancellation is in proccess..."
+msgstr "कृपया प्रतीक्षा करें, रद्दीकरण प्रक्रिया में है ..."
+
+#: setting.php:323
+msgid "Your event has been Cancelled"
+msgstr "आपका कार्यक्रम रद्द कर दिया गया है"
+
+#: setting.php:339
+msgid "Save Changes"
+msgstr "परिवर्तनों को सुरक्षित करें"
+
+#: visitors.php:35
+msgid "Visitors"
+msgstr "आगंतुकों"
+
+#: visitors.php:62
+msgid "Download All Vsitor List"
+msgstr "सभी आगंतुक सूची डाउनलोड करें"
+
+#~ msgid "Sattings"
+#~ msgstr "सेटिंग"
